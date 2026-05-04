@@ -2,7 +2,7 @@
 
 ![WhatsApp Monetization Banner](./Whatsaap%20Monitization.png)
 
----
+--- 
 
 ## 🚀 Overview
 This PRD outlines **5 monetization features** designed to transform WhatsApp into a powerful business and revenue ecosystem.
